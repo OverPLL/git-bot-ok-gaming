@@ -1,7 +1,7 @@
 /* Overdsc source */
 
 .theme-dark {
-    --bg: url(https://i.imgur.com/2WHzMbs.jpg); /* background for the whole window. */
+    --bg: url(https://i.imgur.com/JGPPyep.jpg); /* background for the whole window. */
     --bg-overlay: rgba(0, 0, 0, 0.8); /* overlay for the background, intended for darkening the picture to make text more readable. */
     --accent: #900; /* prominent color in the UI */
     --accent-bright: #f00; /* color of mention text and other miscellaneous text */
